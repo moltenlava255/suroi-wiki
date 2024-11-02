@@ -7,10 +7,8 @@
 -From breaking the purple plumpkin in the halloween and harvest mode.
 -rarely from airdrop/golden airdrop in the following modes.
 # Strategies
--Since you heal faster than others,this encourage a more aggressive playstyle as you can outheal others.
--In squad mode,it is encourage to revive any downed teammates while letting your other teammates fight as you revive people faster
 ## Using
-
+-Since you heal faster than others,this encourage a more aggressive playstyle as you can outheal others.                        -In squad mode,it is encourage to revive any downed teammates while letting your other teammates fight as you revive people faster
 ## Countering
 
 # History
